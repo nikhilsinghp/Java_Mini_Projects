@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 class Portal 
 {
 	static Scanner sc=new Scanner(System.in);
@@ -28,7 +28,7 @@ class Portal
 				default : System.out.println("Invalid data");
 			}
 		}while(home);
-		System.out.println("Nandri");
+		System.out.println("Thanks");
 	}
 	
 	
@@ -138,3 +138,4 @@ class Portal
 		System.out.print("Enter your choice : ");
 	}
 }
+*/
